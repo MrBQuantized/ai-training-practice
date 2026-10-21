@@ -19,8 +19,6 @@ wheels/
 .env.*
 !.env.example
 
-# Local files
+# Media files
 file.txt
-
-# Folder
 TUTORIALS/
