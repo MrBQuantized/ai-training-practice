@@ -1,3 +1,4 @@
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -10,10 +11,13 @@ wheels/
 .venv/
 .qodo/
 
-# Folders
+# IDE settings
 .vscode/
 
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
 
-# Media Folder/Files
-TUTORIALS/
+# Local files
 file.txt
